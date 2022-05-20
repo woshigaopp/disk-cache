@@ -1,2 +1,5 @@
-package diskCache.downloader;public class FileCatcher {
+package diskCache.downloader;
+
+
+public class FileCatcher {
 }

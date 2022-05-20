@@ -1,2 +1,4 @@
-package diskCache;public class DownloadInfo {
+package diskCache;
+
+public class DownloadInfo {
 }
